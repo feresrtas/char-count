@@ -7,4 +7,3 @@ for c in s:
   else:pass
 print('no of letters:',l)
 print('no of digits:',d)
-#--------------
